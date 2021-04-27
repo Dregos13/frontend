@@ -1,0 +1,6 @@
+# Untrack folders
+.gitignore
+*.py
+.idea/
+venv/
+*.pyc
